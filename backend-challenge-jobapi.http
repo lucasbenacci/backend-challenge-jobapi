@@ -1,0 +1,6 @@
+@backend_challange_jobapi_HostAddress = http://localhost:5159
+
+GET {{backend_challange_jobapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
